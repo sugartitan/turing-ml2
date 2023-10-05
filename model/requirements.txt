@@ -1,0 +1,6 @@
+fastapi
+uvicorn
+imblearn
+category_encoders
+pandas==1.5.3
+scikit-learn==1.2.2
