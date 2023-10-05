@@ -1,4 +1,4 @@
-# Stroke Prediction Data Aalysis
+# Stroke Prediction Data Analysis
 2nd Project for Turing ML Module
 
 ## About this Part
